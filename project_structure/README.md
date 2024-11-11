@@ -1,3 +1,15 @@
+# Automate your C++ project creation
+
+This simple script automates setting up a basic C++ project structure. It creates `src` (containing `main.cpp`) and `include` directories, a `README.md`, initializes a Git repository, and adds a `.gitignore` preconfigured with [GitHub's C++ gitignore](https://github.com/github/gitignore/blob/main/C%2B%2B.gitignore).
+
+
+## Prerequisites
+
+Ensure the following are installed:
+
+- [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) - forversion control;
+- [Tree](https://www.tecmint.com/linux-tree-command-examples/) - for tree-like directory visualization.
+
 
 ## Run the script
 
